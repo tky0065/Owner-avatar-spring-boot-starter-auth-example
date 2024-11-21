@@ -37,10 +37,24 @@
 		</dependency>
 
 
+<<<<<<< HEAD
 		<dependency>
 			<groupId>com.enokdev</groupId>
 			<artifactId>spring-boot-starter-auth</artifactId>
 			<version>1.0.2</version>
+=======
+<!--		<dependency>-->
+<!--			<groupId>io.github.tky0065</groupId>-->
+<!--			<artifactId>spring-boot-starter-auth</artifactId>-->
+<!--			<version>1.0.3</version>-->
+
+<!--		</dependency>-->
+
+		<dependency>
+			<groupId>com.enokdev</groupId>
+			<artifactId>spring-boot-starter-auth</artifactId>
+			<version>1.0.4</version>
+>>>>>>> e074b7b (test spring-starter-auth deps)
 
 		</dependency>
 
